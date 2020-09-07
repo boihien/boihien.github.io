@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Boi-Hien Huang
+description: 'Software Developer'
+url: 'http://boihienhuang.dev'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Boi-Hien Huang'
+  email: boihiennhuang@gmail.com
+  twitter_username: 
+  facebook_username: 
+  github_username: boihien
+  linkedin_username:  Boi-Hien Huang
 
 defaults:
   -
