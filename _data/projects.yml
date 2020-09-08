@@ -5,14 +5,14 @@
   img: https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif
   desc: Recreation of a zero-player game that simulates the growth and decay of a population. It is based on the cellular automation simulator that I was introdiced to in my Calculus class. 
 
-- name: Teamfight Tactics Mobile App
-  gh_user: boihien
-  repo: TFT-APP
-  img: https://0.soompi.io/wp-content/uploads/2020/06/14195908/seo-ye-ji-5.jpg
-  desc: Teamfight Tactics helpful guide application. This app is intended to be used along in game. 
-
 - name: Breakout
   gh_user: boihien
   repo: CS120B-Labs
-  img: https://hw-media.herworld.com/public/2020/08/10-Things-To-Know-About-Its-Okay-To-Not-Be-Okays-Seo-Ye-Ji.jpg
-  desc: Recreation of the game Breakout on the ATmega1284 microcontroller. 
+  img: https://cdn.elg.im/breakout/google-atati-breakout.jpg
+  desc: Recreation of the game Breakout on the ATmega1284 microcontroller. Played with an SNES controller and an 8x8 LED Matrix screen. 
+
+- name: Teamfight Tactics Mobile App
+  gh_user: boihien
+  repo: TFT-APP
+  img: https://storage.gra.cloud.ovh.net/v1/AUTH_296c7803aa594af69d39b970927c8fb9/media/game_avatars/0H/0HCsw36h2xw8u20L.png
+  desc: Teamfight Tactics helpful guide application. This app is intended to be used along in game. 
