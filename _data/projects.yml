@@ -11,8 +11,14 @@
   img: https://cdn.elg.im/breakout/google-atati-breakout.jpg
   desc: Recreation of the game Breakout on the ATmega1284 microcontroller. Played with an SNES controller and an 8x8 LED Matrix screen. 
 
+- name: Command Shell
+  gh_user: boihien
+  repo: rshell
+  img: "images/shell2.png"
+  desc: Recreation of the game Breakout on the ATmega1284 microcontroller. Played with an SNES controller and an 8x8 LED Matrix screen. 
+
 - name: Teamfight Tactics Mobile App
   gh_user: boihien
   repo: TFT-APP
-  img: https://storage.gra.cloud.ovh.net/v1/AUTH_296c7803aa594af69d39b970927c8fb9/media/game_avatars/0H/0HCsw36h2xw8u20L.png
+  img: "images/masters.png"
   desc: Teamfight Tactics helpful guide application. This app is intended to be used along in game. 
