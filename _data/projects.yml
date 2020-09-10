@@ -1,24 +1,24 @@
 # projects section data
-- name: Conway's Game of Life
-  gh_user: boihien
-  repo: Conways-Game-of-Life
-  img: https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif
-  desc: Recreation of a zero-player game that simulates the growth and decay of a population. It is based on the cellular automation simulator that I was introdiced to in my Calculus class. 
-
-- name: Breakout
-  gh_user: boihien
-  repo: CS120B-Labs
-  img: https://cdn.elg.im/breakout/google-atati-breakout.jpg
-  desc: Recreation of the game Breakout on the ATmega1284 microcontroller. Played with an SNES controller and an 8x8 LED Matrix screen. 
-
-- name: Command Shell
-  gh_user: boihien
-  repo: rshell
-  img: "images/shell2.png"
-  desc: Recreation of the game Breakout on the ATmega1284 microcontroller. Played with an SNES controller and an 8x8 LED Matrix screen. 
-
-- name: Teamfight Tactics Mobile App
+- name: Teamfight Tactics Mobile App (2019)
   gh_user: boihien
   repo: TFT-APP
   img: "images/masters.png"
-  desc: Teamfight Tactics helpful guide application. This app is intended to be used along in game. 
+  desc: A Teamfight Tactics application that helps players during the game with an interactive cheat sheet. I was able to use this application and reached the rank of masters. 
+
+- name: Breakout (2019)
+  gh_user: boihien
+  repo: CS120B-Labs
+  img: https://cdn.elg.im/breakout/google-atati-breakout.jpg
+  desc: A recreation of the game "Breakout" on the ATmega1284 microcontroller. Played on an 8x8 LED Matrix and controlled by an SNES controller.  
+
+- name: Command Shell (2019)
+  gh_user: boihien
+  repo: rshell
+  img: "images/shell2.png"
+  desc: A command shell that prints out a prompt "$" and reads in a line of command. The command is then executed using fork, execvp, and waitpid.
+
+- name: Conway's Game of Life (2018)
+  gh_user: boihien
+  repo: Conways-Game-of-Life
+  img: https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif
+  desc: A recreation of a zero-player game that simulates the growth and decay of a population. It is based on the cellular automation simulator that I was introduced to in my Calculus class. 
