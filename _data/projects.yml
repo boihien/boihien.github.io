@@ -7,7 +7,7 @@
 
 - name: Breakout (2019)
   gh_user: boihien
-  repo: CS120B-Labs
+  repo: Breakout
   img: https://cdn.elg.im/breakout/google-atati-breakout.jpg
   desc: A recreation of the game "Breakout" on the ATmega1284 microcontroller. Played on an 8x8 LED Matrix and controlled by an SNES controller.  Demo video is available on the READMe file on GitHub.
 
