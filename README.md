@@ -7,7 +7,7 @@ I used the following sources in order to create this website
 
 * Jekyll
 * GitHub Pages
-* Based on [Uno-Theme](https://github.com/joshgerdes/jekyll-uno)
+* Based on [Uno-Theme]
   * added Timeline design and removed posts
 
 ## Build Command
