@@ -1,4 +1,16 @@
 # projects section data
+- name: Facebook Mini (2020)
+  gh_user: boihien
+  repo: facebook-mini
+  img: "images/facebook-messenger-white.svg"
+  desc: An instant messaging software that mimicks facebook's messenger app. I created this software using a client/server model with socket programming. The program is written in python and can be used to communicate with multiple clients.
+
+- name: PID Controller (2020)
+  gh_user: boihien
+  repo: PID_Simulator
+  img: "images/hello.jpg"
+  desc: A PID Controller that controls and regulates a floating ball. The simulations maintains the height of a floating ball by adjusting the fan speed or ball weight. This was a project where I took an existing code base from Zybooks and made improvements upon the software. 
+
 - name: Teamfight Tactics Mobile App (2019)
   gh_user: boihien
   repo: TFT-APP
