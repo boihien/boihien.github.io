@@ -1,4 +1,10 @@
 # projects section data
+- name: Ray Tracer (2021)
+  gh_user: boihien
+  repo: Ray_Tracer
+  img: "images/29.png"
+  desc: A ray tracing software that renders 3D scenes using phong shading, color interpolation, and reflection/refraction. 
+
 - name: Facebook Mini (2020)
   gh_user: boihien
   repo: facebook-mini
