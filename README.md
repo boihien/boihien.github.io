@@ -1,5 +1,5 @@
 # My website!
-[boihienhuang.codes](https://boihienhuang.com)
+[boihienhuang.com](https://boihienhuang.com)
 
 ## Attributions
 
