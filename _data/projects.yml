@@ -1,4 +1,10 @@
 # projects section data
+- name: News Breakers (2021)
+  gh_user: boihien
+  repo: News_Breakers
+  img: "images/Backdrop.png"
+  desc: 2D side scrolling platformer with combat elements, power ups, and levels. Theme of the game is a journalist must defeat the evil printing press and his pawns, who are different font types. 
+
 - name: Ray Tracer (2021)
   gh_user: boihien
   repo: Ray_Tracer
