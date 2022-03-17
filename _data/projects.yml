@@ -2,7 +2,7 @@
 - name: HuangCord (2022)
   gh_user: boihien
   repo: HuangCord
-  img: "images/discord.jpg"
+  img: "images/discord.webp"
   desc: Recreation of the Discord software as a web application utilizing Firebase backend and React.js frontend.
 
 - name: News Breakers (2021)
