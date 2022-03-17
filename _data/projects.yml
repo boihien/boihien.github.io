@@ -1,4 +1,10 @@
 # projects section data
+- name: HuangCord (2022)
+  gh_user: boihien
+  repo: HuangCord
+  img: "images/discord.jpg"
+  desc: Recreation of the Discord software as a web application utilizing Firebase backend and React.js frontend.
+
 - name: News Breakers (2021)
   gh_user: boihien
   repo: News_Breakers
